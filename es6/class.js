@@ -17,6 +17,6 @@ class Employee{
     
 }
 
-rutvi = new Employee("rutvi", "2", "Division");
+// rutvi = new Employee("rutvi", "2", "Division");
 // console.log(rutvi.joiningYear());
 console.log(Employee.add(34,5))
